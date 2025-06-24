@@ -38,6 +38,7 @@ Labels for GitHub.
 | **internationalization** | $\color{#d4c5f9}{\textsf{■}}$ #d4c5f9 | Changes that are for internationalization only |
 | **invalid**              | $\color{#e4e669}{\textsf{■}}$ #e4e669 | This doesn't seem right |
 | **low**                  | $\color{#ff8c00}{\textsf{■}}$ #ff8c00 | Low Priority |
+| **makefile**             | $\color{#e0e4f8}{\textsf{■}}$ #e0e4f8 | Makefile related issues |
 | **medium**               | $\color{#FF7F50}{\textsf{■}}$ #FF7F50 | Medium Priority |
 | **method**               | $\color{#0052CC}{\textsf{■}}$ #0052CC | Method |
 | **notabug**              | $\color{#eeeeee}{\textsf{■}}$ #eeeeee | The issue is not a bug as reported or not reproducible |
